@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Temilollu ,React developer at Torilo Nigeria
+- 👋 Hi, I’m @Temilollu,React developer at Torilo Nigeria
 - 👀 I’m interested in javaScript and Frontend web development
 - 🌱 I’m currently learning node js and express
 - 💞️ I’m looking to collaborate on frontend react projects
